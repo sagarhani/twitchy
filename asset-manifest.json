@@ -1,0 +1,11 @@
+{
+  "main.js": "/twitchy/static/js/main.2c2b96aa.chunk.js",
+  "main.js.map": "/twitchy/static/js/main.2c2b96aa.chunk.js.map",
+  "static/js/1.191ecdf3.chunk.js": "/twitchy/static/js/1.191ecdf3.chunk.js",
+  "static/js/1.191ecdf3.chunk.js.map": "/twitchy/static/js/1.191ecdf3.chunk.js.map",
+  "runtime~main.js": "/twitchy/static/js/runtime~main.532638f8.js",
+  "runtime~main.js.map": "/twitchy/static/js/runtime~main.532638f8.js.map",
+  "index.html": "/twitchy/index.html",
+  "precache-manifest.88cd4b9e25210e3b778159b41b4796ce.js": "/twitchy/precache-manifest.88cd4b9e25210e3b778159b41b4796ce.js",
+  "service-worker.js": "/twitchy/service-worker.js"
+}
