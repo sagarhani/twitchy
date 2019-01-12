@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "description": "sf",
+      "title": "fd",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "description": "sf",
+      "title": "fd",
+      "id": 5
+    },
+    {
+      "description": "hello",
+      "title": "world",
+      "id": 6
+    },
+    {
+      "description": "hello",
+      "title": "worldasdf",
+      "id": 7
+    },
+    {
+      "title": "from ",
+      "description": "app",
+      "id": 8
+    }
+  ]
+}
