@@ -5,6 +5,7 @@
   "homepage": "https://sagarhani.github.io/twitchy",
   "dependencies": {
     "axios": "^0.18.0",
+    "flv.js": "^1.5.0",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "react": "^16.7.0",
